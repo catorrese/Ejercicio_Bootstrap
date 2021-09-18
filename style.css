@@ -1,0 +1,36 @@
+header,
+footer {
+  background-color: #784212;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+
+header {
+  height: 50px;
+}
+
+div {
+  text-align: center;
+}
+
+.custom-nav {
+  background-color: #f5b7b1;
+  text-align: center;
+}
+
+.custom-sidebar {
+  background-color: #f39c12;
+}
+
+.main-content {
+  height: 130px;
+}
+
+.odd-pic {
+  background-color: #e74c3c;
+}
+
+.even-pic {
+  background-color: #5dade2;
+}
